@@ -1,6 +1,6 @@
 # My Portfolio
 
-<img src="images/Banner.jpg" alt="Mohit Maurya's Banner">
+<img src="images/Banner.jpg" alt="Madhu">
 
 Welcome to my portfolio GitHub repository! This project showcases my personal portfolio website, where I share my work, projects, and experiences.
 
